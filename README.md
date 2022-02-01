@@ -29,6 +29,7 @@ L’application M2L_JPO à développer doit, dans un premier temps, proposer les
 Gestion des ligues :
  * Enregistrement des ligues.
  * Inscriptions des ligues à la JPO.
+ 
 Gestion des membres : 
  * Enregistrement des membres de chaque ligue. 
  * Inscription des membres participant à la JPO.
