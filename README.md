@@ -17,3 +17,20 @@
   l’inscription des ligues et de leurs membres participants.
   Elle souhaite pour cela se doter d’une application (M2L_JPO) qui l’aide dans cette gestion.
 ```
+
+## Objectifs :
+
+Cette application M2L_JPO est destinée à être utilisée par la secrétaire de la M2L,
+coordinatrice de la JPO. Celle-ci reçoit les appels téléphoniques, courriers ou mails des
+ligues demandant à s’inscrire à la JPO et se chargera de saisir ces inscriptions.
+
+L’application M2L_JPO à développer doit, dans un premier temps, proposer les fonctionnalités principales suivantes :
+
+Gestion des ligues :
+ * Enregistrement des ligues.
+ * Inscriptions des ligues à la JPO.
+Gestion des membres : 
+ * Enregistrement des membres de chaque ligue. 
+ * Inscription des membres participant à la JPO.
+
+
