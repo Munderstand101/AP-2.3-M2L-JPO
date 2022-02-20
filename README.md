@@ -34,7 +34,7 @@ Gestion des membres :
  * Enregistrement des membres de chaque ligue. 
  * Inscription des membres participant à la JPO.
 
-
+<!--
 ## Compétences :
 
 Dans ce projet, nous avons mis en oeuvre les compétences suivantes :
@@ -44,3 +44,4 @@ Dans ce projet, nous avons mis en oeuvre les compétences suivantes :
 - Mettre à disposition des utilisateurs un service informatique
 
 Nous avons travaillé en mode projet parce que nous avons planifier les tâches à réaliser. Nous avons mis à disposition des utilisateurs un service informatique parce que nous avons créé une application et fait des tests pour vérifier que tout fonctionne.
+-->
